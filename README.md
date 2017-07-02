@@ -1,2 +1,4 @@
-# Chat-Application
-A basic chat application using firebase and android
+# Chat-Application-Android
+
+A chat application in native android having backend in nodejs
+
